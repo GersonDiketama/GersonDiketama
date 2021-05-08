@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GersonDiketama
+- 👀 I’m interested in Software Dev
+- 🌱 I’m currently learning JavaScript/React
+- 💞️ I’m looking to collaborate on any Front End projects.
+- 📫 How to reach me https://www.linkedin.com/in/gerson-m-diketama-ab00a41a2/
