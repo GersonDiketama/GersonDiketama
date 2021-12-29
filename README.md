@@ -2,7 +2,7 @@
 - 👀 I’m Software Engineer
 - 🌱 I’m currently learning enrolled in Nashville Software School in Full-Stack Web Development
 - 💞️ I’m looking to collaborate on any Full Stack projects.
-- 📫 You can reach me on my <a href="https://www.linkedin.com/in/gerson-m-diketama-ab00a41a2/" target="blank">Linkedln</a>
+- 📫 You can reach me on my <a href="https://www.linkedin.com/in/gerson-m-diketama-ab00a41a2/" target="_blank">Linkedln</a>
 
 # FRONT-END SKILLS
  <a href="https://bundlephobia.com/result?p=@sherby/sherby-metadata@3.0.1">
